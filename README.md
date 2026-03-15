@@ -1,1 +1,1 @@
-# Odoo-Telegram-Integration
+# Odoo-Telegram-Integration for Automating Sales Notification
